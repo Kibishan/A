@@ -1,191 +1,138 @@
 {
-  "name": "Lavender Kibi",
-  "description": "A light, soft purple theme.",
-  "color": "#9279BA",
+  "name": "Material Discord Mobile",
+  "description": "Material you discord theme for mobile",
   "authors": [
     {
-      "name": "kibi",
-      "id": "980160393093730395"
+      "name": "Wilk22",
+      "id": "543154693984223245"
     }
   ],
+  "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#ffffff",
-      "#FFFFFF"
+      "#EEEEEE"
     ],
     "HEADER_SECONDARY": [
-      "#c8c8c8",
-      "#FFFFFF"
+      "#EAEAEA"
     ],
     "TEXT_NORMAL": [
-      "#FFFFFF",
-      "#FFFFFF"
+      "#DEDEDE"
+    ],
+    "TEXT_PRIMARY": [
+      "#DEDEDE"
     ],
     "TEXT_MUTED": [
-      "#9279BA",
-      "#FFFFFF"
+      "#B9B9B9"
     ],
-    "INTERACTIVE_NORMAL": [
-      "#9279BA",
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#9279BA",
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#9279BA",
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#363636",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#111011",
-      "#ffffff"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#111011",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#393737",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#393737",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#9279BA",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#393737",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#393737",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#111011",
-      "#ffffff"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "#111011",
-      "#ffffff"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "#9279BA",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#9279BA",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#FFFFFF",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#FFFFFF",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "transparent",
-      "#FFFFFF"
-    ],
-    "SCROLLBAR_THIN_THUMB": [
-      "#201E25",
-      "#FFFFFF"
-    ],
-    "SCROLLBAR_THIN_TRACK": [
-      "transparent",
-      "#FFFFFF"
-    ],
-    "SCROLLBAR_AUTO_THUMB": [
-      "#201E25",
-      "#FFFFFF"
-    ],
-    "SCROLLBAR_AUTO_TRACK": [
-      "#FFFFFF",
-      "#FFFFFF"
-    ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#111111",
-      "#FFFFFF"
-    ],
-    "CHAT_BACKGROUND": [
-      "#111011",
-      "#FFFFFF"
-    ],
-    "CHANNELS_DEFAULT": [
-      "#c8c8c8",
-      "#FFFFFF"
-    ],
-    "CARD_PRIMARY_BG": [
-      "#000000"
-    ],
-    "BG_BASE_PRIMARY": [
-      "#111011",
-      "#FFFFFF"
-    ],
-    "BG_BACKDROP": [
-      "#04010173"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#111011"
+    "TEXT_SECONDARY": [
+      "#B9B9B9"
     ],
     "TEXT_LINK": [
-      "#9279BA",
-      "#FFFFFF"
+      "#5078B4"
     ],
-    "KEYBOARD": [
-      "#111011",
-      "#FFFFFF"
+    "TEXT_DANGER": [
+      "#F04040"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#B9B9B9"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#EAEAEA"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#EAEAEA"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#676767"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#16171A"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#16171A"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#16171A"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0f1012"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#2C4696"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#16171A"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#16171A"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#DEDEDE"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#272727"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#383838"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#283C5A"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#283C5A"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#283C5A"
     ],
     "CHANNEL_ICON": [
-      "#9279BA",
-      "#FFFFFF"
+      "#EAEAEA"
+    ],
+    "CHAT_BACKGROUND": [
+      "#16171A"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#DEDEDE"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#272727"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#272727"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#272727"
+    ],
+    "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
+      "#DEDEDE"
     ]
   },
   "rawColors": {
-    "PRIMARY": "#393737",
-    "PRIMARY_100": "#FFFFFF",
-    "PRIMARY_200": "#FFFFFF",
-    "PRIMARY_300": "#B6B6B6",
-    "PRIMARY_360": "#C8C8C8",
-    "PRIMARY_400": "#808080",
-    "PRIMARY_500": "#9279BA",
-    "PRIMARY_600": "#111011",
-    "PRIMARY_630": "#1a1b21",
-    "PRIMARY_700": "#101010",
-    "PRIMARY_800": "#151515",
-    "PLUM_1": "#FFFFFF",
-    "PLUM_10": "#828282",
-    "PLUM_11": "#232223",
-    "PLUM_13": "#554C95",
-    "PLUM_17": "#000000",
-    "PLUM_18": "#111011",
-    "PLUM_19": "#111011",
-    "PLUM_20": "#111011",
-    "PLUM_22": "#111011",
-    "BRAND_260": "#8a94a8",
-    "BRAND_500": "#9279BA",
-    "BRAND_900": "#111011",
-    "BRAND": "#8a94a8",
-    "YELLOW_300": "#ffffff",
-    "GREEN_600": "#ffffff",
-    "DANGER": "#9279BA",
-    "RED": "848484"
+    "PRIMARY_100": "#EEEEEE",
+    "PRIMARY_300": "#16171A",
+    "PRIMARY_400": "#EAEAEA",
+    "PRIMARY_460": "#16171A",
+    "PRIMARY_500": "#EEEEEE",
+    "PRIMARY_600": "#16171A",
+    "PRIMARY_630": "#16171A",
+    "PRIMARY_660": "#272727",
+    "PRIMARY_700": "#272727",
+    "PRIMARY_800": "#16171A",
+    "PLUM_10": "#EAEAEA",
+    "PLUM_13": "#EAEAEA",
+    "PLUM_16": "#272727",
+    "PLUM_17": "#272727",
+    "PLUM_18": "#283C5A",
+    "PLUM_19": "#283C5A",
+    "PLUM_20": "#16171A",
+    "PLUM_22": "#283C5A",
+    "PLUM_24": "#272727",
+    "PLUM_25": "#16171A",
+    "PLUM_3": "#EEEEEE",
+    "PLUM_6": "#EAEAEA",
+    "PLUM_9": "#EEEEEE"
   },
-  "unsafe_colors": {
-    "CHAT_GREY": "#111011"
-},
-"background": {
-  "url":
-"https://github.com/darealyeeto/EnmityLavender/assets/157327107/aa177b17-afcb-4b65-9954-41e58dd40e5c"
- }
+  "plus": {
+    "version": "0",
+    "iconpack": "md3"
+  }
 }
